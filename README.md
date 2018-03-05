@@ -1,5 +1,6 @@
-# Reindeer Exercise
-## Nashville Software School - Front-end Exercise
+# Nashville Software School - Front-End Exercise
+
+## Reindeer
 
 ## Requirements
 
